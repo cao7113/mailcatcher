@@ -1,6 +1,7 @@
 require "fileutils"
 require "rubygems"
 
+require 'byebug'
 require "mail_catcher/version"
 
 # XXX: Would prefer to use Rake::SprocketsTask but can't populate
